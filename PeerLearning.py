@@ -10,7 +10,7 @@ class peerLearning:
 		if self.position == "mentor":
 			print (self.name,"is a mentor")
 			stack.append(self.skill)
-	    else:
+	        else:
 			print(self.name,"is a learner")
 
    def setAvailableTime(self)
